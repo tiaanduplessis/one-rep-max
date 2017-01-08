@@ -1,0 +1,33 @@
+{
+  "name": "one-rep-max",
+  "version": "1.0.0",
+  "description": "Calculate the maximum amount of force that can be generated in one maximal contraction",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "bin": {
+    "1rm": "cli.js"
+  },
+  "scripts": {
+    "start": "",
+    "test": "npm run lint && mocha",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "repository": {
+    "url": "git@github.com:tiaanduplessis/one-rep-max.git",
+    "type": "git"
+  },
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "standard": "^8.6.0"
+  },
+  "dependencies": {
+    "camelcase": "^4.0.0",
+    "get-them-args": "^1.0.0"
+  }
+}
