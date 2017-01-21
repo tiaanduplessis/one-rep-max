@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "camelcase": "^4.0.0",
-    "get-them-args": "^1.0.0"
+    "get-them-args": "^1.0.1"
   }
 }
