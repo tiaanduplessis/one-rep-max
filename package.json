@@ -23,8 +23,8 @@
   "author": "Tiaan du Plessis",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^3.2.0",
-    "standard": "^8.6.0"
+    "mocha": "^4.0.0",
+    "standard": "^10.0.3"
   },
   "dependencies": {
     "camelcase": "^4.0.0",
