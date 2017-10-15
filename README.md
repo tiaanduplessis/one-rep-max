@@ -36,6 +36,8 @@
 
 ## Introduction
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/one-rep-max.svg)](https://greenkeeper.io/)
+
 This module provides [various formulas](https://en.wikipedia.org/wiki/One-repetition_maximum#Calculating_1RM) for calculating one rep maximum based on a provided weight and number of repetitions.
 
 ## Install
